@@ -37,7 +37,7 @@ This module implements the digital logic to interface with the LCD display.
 *Note: this module was completed by my project partner and has thus been omitted from this repository.*
 
 ## Testbenches
-Test benches have been included for the following modules:
+Testbenches have been included for the following modules:
 - dacInterface
 - freqGen
 - waveGen
