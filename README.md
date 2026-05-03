@@ -11,6 +11,10 @@ This is a guitar effect pedal accessory that generates a low frequency oscillato
 
 I have a guitar overdrive pedal that has a ¼’’ external expression input. This input is intended to be connected to an external foot pedal that allows the player to control the filter cutoff parameter with their foot as opposed to turning the “FILTER” knob on the pedal. Using the same principal as the foot pedal, an LFO signal can be applied to this input to create a dynamic effect by continually modulating the filter cutoff.
 
+**Hardware:**
+
+The RTL digital design for this project was implemented on a **DE0-Nano-SoC-Kit**.
+
 ## Modules
 
 ### lfoGenerator 
