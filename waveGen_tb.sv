@@ -1,6 +1,6 @@
 // ELEX 7660
 // File: waveGen_tb.sv
-// Description:  Testbench to check functionality of the dacInterface module
+// Description:  Testbench to check functionality of the waveGen module
 // Author: Bryce Reid    Student ID: A01298718    Date: 2025-03-18
 // Sections of code taken from: encoder_tb.sv	Author: Robert Trost	Date: 2024-01-15
 
